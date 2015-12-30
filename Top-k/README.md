@@ -10,7 +10,6 @@ Questions created by Pin-Chieh Huang
 2. 最後一行是K，表示輸出檔testX.out要有k行(Top-K score由小到大排序)</br>
 3. Score = 每行資料的每個維度總和
 
-</br>
 **testX.out file**：
 1.每一行第一個數字為score，後面是每個維度的值，中間皆有blank</br>
 2. 用字典序排序
