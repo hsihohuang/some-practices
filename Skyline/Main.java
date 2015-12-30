@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 
+
+/**
+ * @author HsiHo Huang
+ * @date 2014/08/20
+ * @version 2.0
+ */
 public class Main{	
     public static void main(String[] args)throws Exception {
 		SkylineItem[] sKLItemArray;

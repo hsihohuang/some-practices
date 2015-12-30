@@ -1,6 +1,11 @@
 import java.io.*;
 import java.util.*;
 
+/**
+ * @author HsiHo Huang
+ * @date 2014/09/15
+ * @version 2.0
+ */
 public class Main{	
     public static void main(String[] args) throws Exception{
 		int Q = 0;

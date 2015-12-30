@@ -11,6 +11,11 @@ import java.util.Collections;
 import java.util.List;
 
 
+/**
+ * @author HsiHo Huang
+ * @date 2014/08/20
+ * @version 2.0
+ */
 public class SkylineItem implements Comparable<SkylineItem>{
 	static int N, D, numsOfSKL = 0;
 	static List<SkylineItem> skyline = new ArrayList<SkylineItem>();

@@ -9,7 +9,11 @@ import java.util.Arrays;
 import java.util.List;
 
 
-
+/**
+ * @author HsiHo Huang
+ * @date 2014/09/15
+ * @version 2.0
+ */
 public class Data implements Comparable<Data>{
 	static int N, D;
 	int[] value;

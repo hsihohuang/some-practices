@@ -8,6 +8,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+/**
+ * @author HsiHo Huang
+ * @date 2014/09/15
+ * @version 2.0
+ */
 class Node{
 	Node leftNode, rightNode;
 	List<Data> data = new ArrayList<Data>();
