@@ -34,11 +34,7 @@ public class Data implements Comparable<Data>{
 	public String toString(){
 		StringBuilder dataStr = new StringBuilder();
 		for(int v: this.value)
-				dataStr.append(v+"\t");
-		/*skyline.forEach((item) -> {
-			for(int d: item.data)
-				dataStr.append(d+" ");
-		});*/		
+				dataStr.append(v+"\t");	
 		dataStr.append("\r\n");
 		return dataStr.toString();
 	}
