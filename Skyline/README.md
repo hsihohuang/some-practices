@@ -1,9 +1,9 @@
 Questions created by Pin-Chieh Huang
 *****
 
-##Skyline
+## Skyline
 
-######Input testX.in file and output top-k results into the testX.out file.
+#### Input testX.in file and output top-k results into the testX.out file.
 
 **testX.in file**：
 1. 第一行是N, D，代表第一行之後有Ｎ行input資料， 每行資料有D個維度，兩個數字中間有一個blank(或'/t')。</br>
